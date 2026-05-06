@@ -37,7 +37,8 @@ The pipeline is designed to handle **incremental ingestion, backfilling, scalabl
 * Leveraged **Jinja templating** to dynamically generate SQL queries and pipeline parameters
 
 👉 Purpose: Store raw, immutable data for traceability and reprocessing
-
+<img src="Screenshot 2026-04-29 153257.png" width="800"/>
+<img src="Screenshot 2026-04-29 153153.png" width="800"/>
 ---
 
 ## 🥈 Silver Layer (Data Transformation – Databricks)
@@ -54,7 +55,7 @@ The pipeline is designed to handle **incremental ingestion, backfilling, scalabl
 * Enabled structured datasets for downstream analytics
 
 👉 Purpose: Create clean, reliable, and query-ready datasets
-
+<img src="Screenshot 2026-05-06 180702.png" width="800"/>
 ---
 
 ## 🥇 Gold Layer (Data Aggregation – Databricks)
@@ -68,7 +69,7 @@ The pipeline is designed to handle **incremental ingestion, backfilling, scalabl
   * Genre popularity
 
 👉 Purpose: Deliver business-level insights and reporting-ready data
-
+<img src="Screenshot 2026-05-06 180754.png" width="800"/>
 ---
 
 ## 🔄 Key Features
