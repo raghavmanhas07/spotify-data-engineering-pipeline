@@ -1,4 +1,4 @@
-# 🎧 Spotify Data Pipeline (Azure + Databricks)
+# 🎧 Incremental Data Lakehouse Pipeline (Azure + Databricks)
 
 ## 📌 Overview
 
